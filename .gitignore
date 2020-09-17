@@ -8,3 +8,4 @@ MinCostMazeTrav.class
 goldmine.class
 targetSumSubset.class
 coinChangeCombination.class
+coinChangePermutation.class
